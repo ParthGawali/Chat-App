@@ -32,22 +32,13 @@ One of the standout features of ChatApp is its real-time messaging capability. U
 <p><b>Static Files and Assets:</b> If the project includes static files (e.g., CSS, JavaScript, images), you may need to collect and compile them. Use the appropriate commands provided by the project (e.g., python manage.py collectstatic) to gather the static files in a designated directory.</p>
 <p><b>Run the Application:</b> Once the dependencies and configurations are in place, you can start the application. Use the appropriate command provided by the project (e.g., python manage.py runserver) to run the development server. This command will start the application, and you can access it by visiting the provided URL in your browser.</p>
 
-<h3>Credits</h3>
+<h3>Project</h3>
 
 **Project:** ChatApp by Django
-
-**Developed by:** Rushikesh Thakur
-
-**GitHub Repository:** [ https://github.com/rushikeshthakur25/chatapp ]
 
 **Description:** [ The ChatApp offers a sleek and intuitive user interface, designed to enhance the chatting experience. Upon logging in, users are greeted with a personalized dashboard where they can easily view their conversations, manage contacts, and explore various chat rooms and channels.
 One of the standout features of ChatApp is its real-time messaging capability. Users can engage in instant conversations with individuals or groups, allowing for quick and efficient communication. Messages are delivered and displayed in real-time, ensuring a smooth and uninterrupted flow of conversation.]
 <hr>
-
-<h3>Screenshort</h3>
-<img alt="coding" width="500" src="https://github.com/rushikeshthakur25/chatapp/blob/master/Screenshot%202023-07-04%20192528.png">
-<img alt="coding" width="500" src="https://github.com/rushikeshthakur25/chatapp/blob/master/Screenshot%202023-07-04%20192758.png">
-<img alt="coding" width="500" src="https://github.com/rushikeshthakur25/chatapp/blob/master/Screenshot%202023-07-04%20192841.png">
 
 
 
